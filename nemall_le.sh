@@ -1,8 +1,9 @@
 #!/bin/bash
 # My first script
 
-while (true) {
-echo "aaaaaaaaaaa";
-sleep (1);
-}
+while true
+do
+echo "aaaaaaaaaaa"
+sleep (1)
+end
 #sleep infinity;
