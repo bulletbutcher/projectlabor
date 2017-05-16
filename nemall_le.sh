@@ -4,6 +4,6 @@
 while true
 do
 echo "aaaaaaaaaaa"
-sleep (1)
+sleep 1
 end
 #sleep infinity;
